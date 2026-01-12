@@ -8,7 +8,3 @@ require (
 	github.com/robfig/cron/v3 v3.0.1
 )
 
-replace (
-	github.com/go-anyway/framework-log => ../core/log
-	github.com/go-anyway/framework-trace => ../trace
-)
